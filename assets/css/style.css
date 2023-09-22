@@ -56,24 +56,10 @@ header.cabecalho {
 }
 
 
-
-
 .linha{
   text-decoration: overline;
   font-family: initial;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -276,35 +262,6 @@ button {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .tituloP{
   text-align: center;
   font-family: initial;
@@ -378,19 +335,6 @@ margin: 0;
 .fotos a:hover{
   transform: scale(1.1); 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .cadastro-container {
@@ -1929,10 +1873,3 @@ padding: 0;
 .btn-login:hover {
   background-color: #0056b3;
 }
-
-
-
-
-
-
-
